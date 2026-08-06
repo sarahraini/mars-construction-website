@@ -54,10 +54,11 @@ Responsibilities:
 
 <img width="1280" height="800" alt="Screenshot 2026-08-06 at 12 12 00" src="https://github.com/user-attachments/assets/c0f8d918-8936-460c-95dc-378a52154fea" />
 
+### Mobile View
+<img width="1280" height="720" alt="Screenshot 2026-08-06 at 12 48 17" src="https://github.com/user-attachments/assets/44506de1-a203-457e-a4bc-f21d5b9e7e9f" />
+
 
 ## Client
-<img width="1280" height="800" alt="Screenshot 2026-08-06 at 12 11 47" src="https://github.com/user-attachments/assets/74bb51f6-4aeb-4293-8995-97e1abf483a0" />
-
 Australian Construction Business
 
 ## Status
